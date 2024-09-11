@@ -1,4 +1,5 @@
 # Optimizing LLMS with RAG: RAG FROM SCRATCH
 
-
-![Basic working](RAG.jpg)
+<p align="center">
+  <img src="RAG.jpg" alt="Basic working" width="500">
+</p>
