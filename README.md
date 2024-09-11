@@ -1,6 +1,5 @@
 # Optimizing LLMS with RAG: RAG FROM SCRATCH
 
-<p align="center">
-  <img src="" alt="Basic working" width="1299" height="1201">
-</p>
+![RAG](https://github.com/user-attachments/assets/f9f03c36-190c-4bae-8dd4-8d717370bef5)
+
 
