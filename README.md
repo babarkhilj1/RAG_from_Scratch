@@ -1,4 +1,4 @@
 # Optimizing LLMS with RAG: RAG FROM SCRATCH
 
 
-! [hello](RAG.jpg)
+! [Basic working](RAG_from_Scratch/RAG.jpg)
